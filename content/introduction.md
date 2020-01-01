@@ -1,32 +1,16 @@
 ---
-title: "Introduction"
+title: "INTRODUCTION"
 metaTitle: "This is the title tag of this page"
 metaDescription: "This is the meta description"
 ---
 
-Some introduction text. Lists out all the headings from h1 to h6. Easy to customise.
+# Our aim is to provide Career Path for the Minority Students studing Engineering in CSE/IT
 
-# Heading H1
-Heading 1 text
+### Training will be provided at @islamic-center-Towlichowki 
+### Timings : SAT & SUN( 11:00 AM TO 1:00 AM)
 
-## Heading H2
-Heading 2 text
+- we expect students to have some basic programming Knowledge
+- We will train students in Data Structures and Algorithms so that thay can crack job interviews
+- Referals will also be provided for the well performing students.
 
-### Heading H3
-Heading 3 text
 
-#### Heading H4
-Heading 4 text
-
-##### Heading H5
-Heading 5 text
-
-###### Heading H6
-Heading 6 text
-
-## Lists
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5

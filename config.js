@@ -7,8 +7,8 @@ const config = {
 	"header": {
 		"logo": "https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/favicon.png",
 		"logoLink": "https://learn.hasura.io",
-		"title": "Gatsby Gitbook Boilerplate",
-		"githubUrl": "https://github.com/hasura/gatsby-gitbook-boilerplate",
+		"title": "Career Path for minority Students",
+		"githubUrl": "https://github.com/abdulwahed786/career-path-minorities",
 		"helpUrl": "",
 		"tweetText": "",
 		"links": [
@@ -25,10 +25,11 @@ const config = {
 	"sidebar": {
 		"forcedNavOrder": [
 			"/introduction",
-    		"/codeblock"
+			"/coding",
+			"/web-dev"
 		],
     	"collapsedNav": [
-      		"/codeblock"
+      		"/web-dev"
     	],
 		"links": [
 			{ "text": "Hasura", "link": "https://hasura.io"},
@@ -37,17 +38,17 @@ const config = {
 		"ignoreIndex": true,
 	},
 	"siteMetadata": {
-		"title": "Gatsby Gitbook Boilerplate | Hasura",
+		"title": "Career Path for minority Students",
 		"description": "Documentation built with mdx. Powering learn.hasura.io ",
 		"ogImage": null,
-		"docsLocation": "https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content",
+		"docsLocation": "https://github.com/abdulwahed786/career-path-minorities/tree/master/content",
 		"favicon": "https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg"
 	},
 	"pwa": {
 		"enabled": false, // disabling this will also remove the existing service worker.
 		"manifest": {
-			"name": "Gatsby Gitbook Starter",
-			"short_name": "GitbookStarter",
+			"name": "Career Path for minority Students",
+			"short_name": "Career Path -DS-ALGO",
 			"start_url": "/",
 			"background_color": "#6b37bf",
 			"theme_color": "#6b37bf",
