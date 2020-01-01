@@ -1,5 +1,5 @@
 ---
-title: "WEB-DEV header"
+title: "WEB-DEV SKILLS"
 metaTitle: "This is Intro and Prerequisites"
 metaDescription: "This is the meta description"
 ---
