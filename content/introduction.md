@@ -11,6 +11,6 @@ metaDescription: "This is the meta description"
 
 - we expect students to have some basic programming Knowledge
 - We will train students in Data Structures and Algorithms so that thay can crack job interviews
-- Referals will also be provided to the students performing well.
+- Referrals will also be provided to the students based on there performance.
 
 
